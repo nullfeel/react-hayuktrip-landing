@@ -1,0 +1,13 @@
+.StoreBanner {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.image {
+  width: 171px;
+  height: 60px;
+  object-fit: cover;
+  border-width: 0px;
+  border-radius: 0px;
+}
